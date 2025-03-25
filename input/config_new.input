@@ -1,5 +1,5 @@
 #Atmospheric profile input file
-input/example_p_t_structures/HD189_Xodiac_PT.dat
+input/example_p_t_structures/TP_LOW.dat
 
 #Chemistry calculation type (gas phase only = g, equilibrium condensation = ce, rainout condensation = cr)
 g
@@ -17,7 +17,7 @@ output/monitor.dat
 MR
 
 #Element abundance file   
-input/element_abundances/custom_solar.dat
+input/element_abundances/asplund_2009.dat
 
 #Species data files    
 input/logK/logK.dat input/logK/logK_condensates.dat

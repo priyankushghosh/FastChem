@@ -1,5 +1,5 @@
 #element abundance file   
-input/element_abundances/asplund_2009.dat
+input/element_abundances/custom_solar.dat
 
 #species data files    
 input/logK/logK.dat input/logK/logK_condensates.dat
